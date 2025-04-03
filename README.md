@@ -12,6 +12,11 @@ Here are some of the projects included in this repository:
    - **Description**: This project focuses on analyzing and predicting the insurance charges based on various factors like age, BMI, and smoking status.
    - **Techniques**: Linear Regression, Polynomial Regression, Ridge Regression, Cross-Validation.
    - **Tools**: Python, Pandas, Scikit-learn, Matplotlib, Seaborn.
+  
+2. **[Project2: Uber New York - Data Analysis](https://github.com/KamilaMikina/data_analysis/blob/main/Uber%20NY%20analysis.ipynb)**
+   - **Description**: This project contains an analysis of Uber traffic in New York City, including peak hours and days for ride requests.
+   - **Tools**: Python, Pandas, plotly, ChartStudio, Matplotlib, Seaborn.
+
 
 ## Technologies Used
 
