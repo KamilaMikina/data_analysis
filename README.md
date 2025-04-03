@@ -8,7 +8,7 @@ This repository contains various data analysis and machine learning projects tha
 
 Here are some of the projects included in this repository:
 
-1. **[Project 1: Regression Analysis for Insurance Charges](link-to-project)**
+1. **[Project 1: Regression Analysis for Insurance Charges](https://github.com/KamilaMikina/data_analysis/blob/main/Insurance%20cost%20analysis.ipynb)**
    - **Description**: This project focuses on analyzing and predicting the insurance charges based on various factors like age, BMI, and smoking status.
    - **Techniques**: Linear Regression, Polynomial Regression, Ridge Regression, Cross-Validation.
    - **Tools**: Python, Pandas, Scikit-learn, Matplotlib, Seaborn.
