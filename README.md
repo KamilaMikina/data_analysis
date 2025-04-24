@@ -16,10 +16,14 @@ Here are some of the projects included in this repository:
 2. **[Project2: Uber New York - Data Analysis](https://github.com/KamilaMikina/data_analysis/blob/main/Uber%20NY%20analysis.ipynb)**
    - **Description**: This project contains an analysis of Uber traffic in New York City, including peak hours and days for ride requests.
    - **Tools**: Python, Pandas, plotly, ChartStudio, Matplotlib, Seaborn.
+  
+3. **[Project3: HR Data Analysis with SQL](https://github.com/KamilaMikina/data_analysis/blob/main/HR%20Database%20Analysis%20with%20SQL.ipynb)**
+   - **Description**: This repository contains SQL queries and scripts for performing various data analyses on HR database containing 5 tables.
+   - **Tools**: Python, SQL, Pandas, Matplotlib
 
 
 ## Technologies Used
 
-- **Programming Languages**: Python
+- **Programming Languages**: Python, SQL
 - **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Statsmodels
 - **Tools**: Jupyter Notebooks, Git, GitHub
